@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This repository serves as a boilerplate template for Next.js, tailwind, Typescript and Shadcn ui projects, designed to kickstart your development process with pre-configured ESLint and Prettier settings. Our custom ESLint and Prettier configurations are tailored to ensure code quality and consistency across your Next.js applications.
+
 ## Getting Started
 
 First, run the development server:
